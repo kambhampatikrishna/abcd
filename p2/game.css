@@ -1,0 +1,48 @@
+.header{
+  width:1300px;
+  height: 750px;
+  border: 1px solid black;
+}
+.arc{
+  position:absolute;
+  margin-left: 40%;
+  margin-top:40%;
+  
+}
+.arc2{
+  position:absolute;
+  margin-left: 46.5%;
+  margin-top:35%;
+  z-index: -1;
+}
+.inner div{
+  background-image: url('cloud.jpg');
+  background-repeat:no-repeat;
+  width:130px;
+  text-align: center;
+  padding-top:20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:300%;
+  height:100px;
+  float:left;
+  background-size: contain; 
+  
+}
+
+
+a h1{
+  width:200px;
+  height:200px;
+  margin-bottom: 0px;
+}
+.arc0 {
+  margin-top:; 
+}
+
+.bullet{
+  position:absolute;
+  width:10px;
+  margin-left:46.5%;
+  margin-top:25%;
+  z-index:-1;
+}
